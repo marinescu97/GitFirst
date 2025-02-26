@@ -1,1 +1,1 @@
-This is a text for README.md
+This is a text from feature-branch for README.md.
